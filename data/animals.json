@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Simba",
+    "species": "Lion",
+    "age": 6,
+    "isEndangered": false,
+    "habitat": "Savanna"
+  },
+  {
+    "id": 3,
+    "name": "Dory",
+    "species": "Blue Tang",
+    "age": 3,
+    "isEndangered": false,
+    "habitat": "Ocean"
+  }
+]
